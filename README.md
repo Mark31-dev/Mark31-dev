@@ -100,10 +100,9 @@
 ### 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mark31-dev&theme=tokyonight&hide_border=true"/>
-  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mark31-dev&theme=github-dark&hide_border=true"/>
 </p>
+
 
 ---
 
