@@ -103,6 +103,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mark31-dev&theme=github-dark&hide_border=true"/>
 </p>
 
+---
+
+### 🚀 Featured Projects
+
+🗂️ [BossM TODO GUI App](https://github.com/Mark31-dev/BossMDev-todo-gui)  
+A full-featured Python tkinter-based task manager with animated README, installer, and live widgets.
+
+[![](https://img.shields.io/github/stars/Mark31-dev/BossMDev-todo-gui?style=social)](https://github.com/Mark31-dev/BossMDev-todo-gui/stargazers)
 
 ---
 
