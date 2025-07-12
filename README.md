@@ -1,6 +1,6 @@
 <!-- GitHub Profile README: Mark31-dev -->
 
-<!-- 👾 Glitchy Banner -->
+<!-- 🌐 Custom Glitch Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=150&section=header&text=Welcome%20to%20BossM's%20Zone&fontColor=00FFFF&fontSize=28&animation=twinkling" />
 </p>
@@ -10,47 +10,72 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=900&lines=Hi+there%2C+I'm+BossM+%F0%9F%91%8B;Full-Stack+Developer+%7C+Web%2C+API%2C+Automation+%F0%9F%9A%80;Python+%7C+Go+%7C+C%23+%7C+JS%2FTS+%7C+Flutter+%7C+PHP+%7C+C%2B%2B+%7C+VB.NET" alt="Typing SVG" />
 </h1>
 
----
+<!-- 💖 GitHub Sponsor -->
+<p align="center">
+  <a href="https://github.com/sponsors/Mark31-dev">
+    <img src="https://img.shields.io/badge/Sponsor-BossM-E4405F?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  </a>
+</p>
+
 ### 🧮 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mark31-dev&label=Profile+Views&color=brightgreen&style=flat"/>
 </p>
----
-
-### 🧠 Tech Toolbox
-
-#### 🖥️ Backend  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-#### 🌐 Web  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-
-#### 📱 Frontend & Mobile  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-#### 🎨 Styling  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-### 🚀 Projects
+### 🧠 Tech Stack
 
-> 🧠 *Coming Soon:* `bossm-todo-cli`, `ai-terminal-assistant`, `dev-automation-scripts`
+<div align="center">
+
+<!-- Animated Skill Icons with Tooltip -->
+<p>
+  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin: 10px;" />
+  <img title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" style="margin: 10px;" />
+  <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" style="margin: 10px;" />
+  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin: 10px;" />
+  <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="margin: 10px;" />
+  <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="margin: 10px;" />
+  <img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" style="margin: 10px;" />
+  <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" style="margin: 10px;" />
+  <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="margin: 10px;" />
+  <img title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" style="margin: 10px; background-color:white; border-radius:5px;" />
+  <img title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" style="margin: 10px;" />
+  <img title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" style="margin: 10px;" />
+  <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" style="margin: 10px;" />
+</p>
+
+<!-- Tech Table Like Jester -->
+<table align="center">
+  <tr>
+    <th>🖥️ Backend</th>
+    <th>🌐 Web Frameworks</th>
+    <th>🎨 Frontend</th>
+    <th>🖼 GUI</th>
+  </tr>
+  <tr>
+    <td>Python, Go, PHP, Java, C#, VB.NET</td>
+    <td>Flask, FastAPI, Express.js, Node.js</td>
+    <td>React, Next.js, JavaScript, Tailwind, Bootstrap</td>
+    <td>Flutter, CustomTkinter</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 📬 Contact & Socials
+
+<p align="center">
+  <a href="mailto:markherrero.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Mark31-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@markherrerodev2025"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://facebook.com/markherrerodev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://tiktok.com/@bossmdev"><img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://instagram.com/xxmarkherrero_2025xx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -81,17 +106,6 @@
 
 ---
 
-### 📬 Contact & Socials
-
-- 📧 Email: [markherrero.dev@gmail.com](mailto:markherrero.dev@gmail.com)
-- 💻 GitHub: [Mark31-dev](https://github.com/Mark31-dev)
-- 📺 YouTube: [@markherrerodev2025](https://www.youtube.com/@markherrerodev2025)
-- 📘 Facebook: [markherrerodev](https://www.facebook.com/markherrerodev)
-- 🎵 TikTok: [@bossmdev](https://tiktok.com/@bossmdev)
-- 📸 Instagram: [@xxmarkherrero_2025xx](https://instagram.com/xxmarkherrero_2025xx)
-- 💬 Discord: `BossM#4297`
-
----
 <p align="center">
   © 2025 <strong>BossM</strong>. All rights reserved. <br>
   <em>Unauthorized copying or reuse of this README is strictly prohibited.</em>
