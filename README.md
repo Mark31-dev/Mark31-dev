@@ -18,7 +18,6 @@
 </p>
 
 ### 🧮 Profile Views
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mark31-dev&label=Profile+Views&color=brightgreen&style=flat"/>
 </p>
@@ -45,7 +44,6 @@
   <img title="TailwindCSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>&nbsp;
   <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 </p>
-
 
 <!-- Tech Table Like Jester -->
 <table align="center">
@@ -80,19 +78,24 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
+<div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=Mark31-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=00ffff&text_color=ffffff" width="320px" /> </td> <td> <img src="https://streak-stats.demolab.com?user=Mark31-dev&theme=dark&hide_border=false&ring=00ffff&currStreakLabel=00ffff" width="320px" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark31-dev&layout=compact&theme=dark&hide_border=false&langs_count=6&title_color=00ffff&text_color=ffffff" width="320px" /> </td> </tr> </table> </div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mark31-dev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark31-dev&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mark31-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mark31-dev&theme=onedark&no-frame=true&column=6"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Mark31-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
